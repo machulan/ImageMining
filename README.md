@@ -1,5 +1,5 @@
 # ImageMining
-Image mining. Mine profile images through Google API.
+Image mining. Mine profile images through Google API ([Google+ API](https://developers.google.com/+/web/) and [Google People API](https://developers.google.com/people/)).
 ## Dependencies
 * python 3
 * requests
